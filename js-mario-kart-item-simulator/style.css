@@ -1,0 +1,11 @@
+body {
+  text-align: center;
+}
+  
+#item {
+  font-size: 75px;
+}
+  
+#totalItemCount {
+  font-size: 30px;
+}
